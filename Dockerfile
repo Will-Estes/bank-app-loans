@@ -1,6 +1,6 @@
 FROM openjdk:17-slim as build
 
-MAINTAINER westes
+MAINTAINER willestes82892
 
 COPY target/loans-0.0.1-SNAPSHOT.jar loans-0.0.1-SNAPSHOT.jar
 
